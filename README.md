@@ -1,16 +1,25 @@
-## ☁️ Cloud Engineer | Building Scalable & Reliable Infrastructure
+## ☁️ Cloud & DevOps Engineer
 
-I design and build cloud-native platforms that are secure, automated, and production-ready.
+I design, automate, and manage scalable cloud infrastructure that enables reliable, secure, and efficient software delivery.
 
-### What I Do
+### 🚀 What I Do
 
-☁️ **Cloud Architecture & Infrastructure**  
-🚀 **Cloud-Native Application Deployment**  
-⚙️ **Infrastructure as Code (Terraform & CloudFormation)**  
-🔄 **CI/CD Pipelines & DevOps Automation**  
-📊 **Monitoring, Logging & Observability**  
-🔐 **Cloud Security & Best Practices**  
-🏗️ **Scalable & Highly Available Systems**  
-🌐 **AWS • Azure • Google Cloud**
+☁️ Cloud Architecture & Infrastructure  
+⚙️ Infrastructure as Code (Terraform, CloudFormation)  
+🔄 CI/CD Pipeline Automation  
+🐳 Containerization & Kubernetes Orchestration  
+📊 Monitoring, Logging & Observability  
+🔐 Cloud Security & DevSecOps Practices  
+🏗️ High Availability & Disaster Recovery  
+🚀 Platform Engineering & Automation  
 
-> Turning ideas into resilient cloud solutions, one deployment at a time.
+### 🛠️ Tech Stack
+
+**Cloud:** AWS • Azure • Google Cloud  
+**IaC:** Terraform • CloudFormation • Ansible  
+**Containers:** Docker • Kubernetes • Helm  
+**CI/CD:** GitHub Actions • Jenkins • GitLab CI  
+**Monitoring:** Prometheus • Grafana • CloudWatch  
+**Version Control:** Git • GitHub • GitLab
+
+> Building resilient cloud platforms through automation, scalability, and operational excellence.
