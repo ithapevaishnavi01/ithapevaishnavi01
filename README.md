@@ -16,7 +16,7 @@ I design, automate, and manage scalable cloud infrastructure that enables reliab
 
 ### 🛠️ Tech Stack
 
-**Cloud:** AWS • Azure • Google Cloud  
+**Cloud:** AWS  
 **IaC:** Terraform • CloudFormation • Ansible  
 **Containers:** Docker • Kubernetes • Helm  
 **CI/CD:** GitHub Actions • Jenkins • GitLab CI  
