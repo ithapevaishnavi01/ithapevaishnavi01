@@ -18,9 +18,9 @@ I design, automate, and manage scalable cloud infrastructure that enables reliab
 
 **Cloud:** AWS  
 **IaC:** Terraform • CloudFormation • Ansible  
-**Containers:** Docker • Kubernetes • Helm  
+**Containers:** Docker • Kubernetes 
 **CI/CD:** GitHub Actions • Jenkins • GitLab CI  
 **Monitoring:** Prometheus • Grafana • CloudWatch  
-**Version Control:** Git • GitHub • GitLab
+**Version Control:** Git • GitHub 
 
 > Building resilient cloud platforms through automation, scalability, and operational excellence.
